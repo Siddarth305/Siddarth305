@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddarth</h1>
 <h3 align="center">Passionate on Full Stack | Professional on Data and Machine learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddarth305&label=Profile%20views&color=0e75b6&style=flat" alt="siddarth305" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddarth305" alt="siddarth305" /></a> </p>
 
