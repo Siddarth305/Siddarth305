@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddarth</h1>
 <h3 align="center">Passionate on Full Stack | Professional on Data and Machine learning</h3>
-
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Stored Image" width: 640px;margin: 20px  />
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddarth305" alt="siddarth305" /></a> </p>
